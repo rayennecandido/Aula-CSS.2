@@ -1,0 +1,12 @@
+*{
+    margin: 0;
+    paadding: 0;
+   }
+   body{
+     background: linear-gradient(180deg, pink, red, orange, yellow, green, blue, violet);
+   }
+   img{
+     width: 300px;
+     border-radius: 200px;
+     border: 2px solid green;
+   }
